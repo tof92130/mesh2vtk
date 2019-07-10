@@ -1,0 +1,14 @@
+
+MeshVersionFormatted
+1
+
+Dimension
+3
+
+SolAtVertices
+4
+3 1 1 2
+1 10 100 1000 10000
+2 20 200 2000 20000
+3 30 300 3000 30000
+4 40 400 4000 40000
